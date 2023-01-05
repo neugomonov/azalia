@@ -1,4 +1,4 @@
-![alt text](src/assets/azalia.png)
+![sample text](src/assets/azalia.png)
 
 # Azalia
 
@@ -33,3 +33,11 @@ This is the test app for the Azalia flowers company 🌹
     "styled-system": "^5.1.5"
   },
 ```
+
+## Screenshots
+
+![sample text](/assets/screenshot1.png)
+![sample text](/assets/screenshot2.png)
+![sample text](/assets/screenshot3.png)
+![sample text](/assets/screenshot4.png)
+![sample text](/assets/screenshot5.png)
