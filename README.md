@@ -37,7 +37,17 @@ This is the test app for the Azalia flowers company 🌹
 ## Screenshots
 
 ![sample text](/assets/screenshot1.png)
-![sample text](/assets/screenshot2.png)
 ![sample text](/assets/screenshot3.png)
+
+<details>
+<summary>
+  🖼 More screenshots here 🌹
+</summary>
+  
+![sample text](/assets/screenshot2.png)
 ![sample text](/assets/screenshot4.png)
 ![sample text](/assets/screenshot5.png)
+
+</details>
+
+![qr](/expo-go.svg)
