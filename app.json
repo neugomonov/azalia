@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "animated-todo",
-    "slug": "animated-todo",
+    "name": "azalia",
+    "slug": "azalia",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -21,7 +21,7 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
+        "foregroundImage": "./assets/azalia.png",
         "backgroundColor": "#000000"
       }
     },
