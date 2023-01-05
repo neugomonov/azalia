@@ -50,4 +50,7 @@ This is the test app for the Azalia flowers company 🌹
 
 </details>
 
+## Expo  
+Scan the code. 🏁 Run the app! 🏃‍♂️  
+  
 ![qr](/expo-go.svg)
