@@ -8,7 +8,7 @@
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#000000"
+      "backgroundColor": "#ffffff"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
@@ -21,12 +21,18 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/azalia.png",
-        "backgroundColor": "#000000"
-      }
+        "foregroundImage": "./assets/azalia-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.antivalery.azalia"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "f0cce5c7-6501-46b5-b061-2c6c71753949"
+      }
     }
   }
 }
